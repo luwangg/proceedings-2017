@@ -86,3 +86,9 @@ WaveConverter has helped me a lot, and I hope it makes life easier for you as we
 [https://github.com/paulgclark/waveconverter](https://github.com/paulgclark/waveconverter)
 
 If you do develop some protocol definitions, please export them to a text file and attach the file to a new issue in GitHub. I'll add your protocol to the database and include it in the next release.
+
+## Metadata
+
+* **Primary Author Name**: Paul Clark,
+* **Primary Author Affiliation**: Factoria Labs,
+* **Primary Author Email**: paul@factorialabs.com,
